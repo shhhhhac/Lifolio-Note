@@ -1,6 +1,6 @@
 {
-  "name": "今日の行動記録",
-  "short_name": "行動記録",
+  "name": "Lifolio Note",
+  "short_name": "Lifolio Note",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
